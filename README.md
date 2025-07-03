@@ -2,6 +2,17 @@
 
 This project uses machine learning techniques to identify the likelihood of Type II diabetes based on health and lifestyle indicators. The data comes from the CDC's Behavioral Risk Factor Surveillance System (BRFSS).
 
+## 👥 Authors
+#### Project by:
+
+* María Victoria D’Ercole
+* Martin Li Gioi Emilio
+* Julieta Belén Dasso
+
+Universidad Nacional de San Martín (UNSAM)
+| Introduction to Machine Learning | 2025
+
+
 ## 🧠 Objective
 
 To build a predictive model that classifies whether an individual is likely to have Type II diabetes based on a set of features including:
